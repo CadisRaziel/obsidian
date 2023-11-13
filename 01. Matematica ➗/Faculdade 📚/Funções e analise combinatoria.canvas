@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"id":"b883df4624ff769b","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025211533.png","x":-320,"y":-200,"width":720,"height":400},
+		{"id":"3af91e6cd98a9354","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025211645.png","x":-320,"y":340,"width":720,"height":414},
+		{"id":"b9ae2e243909a57c","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025211738.png","x":760,"y":80,"width":815,"height":440},
+		{"id":"1b53811d85ad2ca1","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025211831.png","x":760,"y":720,"width":814,"height":467},
+		{"id":"eb4e0e050f1814f3","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212029.png","x":760,"y":1320,"width":815,"height":434},
+		{"id":"92f8ba588a9d9785","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212154.png","x":760,"y":1920,"width":815,"height":451},
+		{"id":"b45b6b7e01f5e30d","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212226.png","x":1880,"y":1920,"width":844,"height":451},
+		{"id":"5f81138bb94e0d1e","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212444.png","x":1880,"y":2480,"width":844,"height":442},
+		{"id":"995639ac7ff4c5b2","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212537.png","x":760,"y":2560,"width":815,"height":456},
+		{"id":"deb7fc3abd69d20a","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212638.png","x":760,"y":3180,"width":816,"height":460},
+		{"id":"02a8bf6184b46f32","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212749.png","x":760,"y":3780,"width":816,"height":453},
+		{"id":"57e223be8bc558a7","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212829.png","x":760,"y":4420,"width":815,"height":420},
+		{"id":"70c814ce2d379fef","type":"file","file":"📷 Todas imagens upadas no obsidian/Pasted image 20231025212928.png","x":760,"y":4980,"width":815,"height":447}
+	],
+	"edges":[
+		{"id":"16f113a2ee9921ce","fromNode":"b883df4624ff769b","fromSide":"bottom","toNode":"3af91e6cd98a9354","toSide":"top","color":"4"},
+		{"id":"57c539df8f286154","fromNode":"3af91e6cd98a9354","fromSide":"right","toNode":"b9ae2e243909a57c","toSide":"left","color":"4"},
+		{"id":"9fbc034a5170ddc9","fromNode":"b883df4624ff769b","fromSide":"right","toNode":"b9ae2e243909a57c","toSide":"left","color":"4"},
+		{"id":"b9dc73da1b0480ea","fromNode":"b9ae2e243909a57c","fromSide":"bottom","toNode":"1b53811d85ad2ca1","toSide":"top","color":"4"},
+		{"id":"87f9b67d8ac4a750","fromNode":"1b53811d85ad2ca1","fromSide":"bottom","toNode":"eb4e0e050f1814f3","toSide":"top","color":"4"},
+		{"id":"19d842030f875e03","fromNode":"eb4e0e050f1814f3","fromSide":"bottom","toNode":"92f8ba588a9d9785","toSide":"top","color":"4"},
+		{"id":"10c6b23084d4c517","fromNode":"92f8ba588a9d9785","fromSide":"right","toNode":"b45b6b7e01f5e30d","toSide":"left","color":"4"},
+		{"id":"18ca8f1547c618ab","fromNode":"b45b6b7e01f5e30d","fromSide":"bottom","toNode":"5f81138bb94e0d1e","toSide":"top","color":"4"},
+		{"id":"5b9d50137674c660","fromNode":"92f8ba588a9d9785","fromSide":"bottom","toNode":"995639ac7ff4c5b2","toSide":"top","color":"4"},
+		{"id":"402ab276ffbdbec8","fromNode":"995639ac7ff4c5b2","fromSide":"bottom","toNode":"deb7fc3abd69d20a","toSide":"top","color":"4"},
+		{"id":"cae0277af3b8cdbf","fromNode":"deb7fc3abd69d20a","fromSide":"bottom","toNode":"02a8bf6184b46f32","toSide":"top","color":"4"},
+		{"id":"db1c87f0bf33d929","fromNode":"02a8bf6184b46f32","fromSide":"bottom","toNode":"57e223be8bc558a7","toSide":"top","color":"4"},
+		{"id":"4a1d6c6a7d6d9d3f","fromNode":"57e223be8bc558a7","fromSide":"bottom","toNode":"70c814ce2d379fef","toSide":"top","color":"4"}
+	]
+}
