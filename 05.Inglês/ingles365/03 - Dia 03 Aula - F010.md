@@ -1,0 +1,29 @@
+
+Alfabeto - Pronuncia
+
+A -> Ei
+B -> Bi
+C -> Ci
+D -> Di
+E -> i
+F -> ÉFi
+G -> Gi
+H -> eit
+i -> ai
+J -> jei
+K -> kei
+L -> EL
+M -> EM
+N -> ENi
+O -> Ou
+P -> Pi
+Q -> kiu
+R -> Are
+S -> Es
+T -> ti
+U -> iu
+V -> vi
+W -> dabliu
+X -> exis
+y -> uai
+z -> zi

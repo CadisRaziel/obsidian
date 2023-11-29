@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "7250ee701bdcb9a6",
+        "id": "7964214cd02b4076",
         "type": "tabs",
         "children": [
           {
-            "id": "45a632fc988c1cab",
+            "id": "54579eb2c8b9533d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "📷 Todas imagens upadas no obsidian/Pasted image 20231112215214.png"
+                "file": "07.Ferramentas Interessantes/07.Segurança Web.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -46,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#F005",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 405.5
   },
   "right": {
     "id": "4dd9952777156fb0",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "📷 Todas imagens upadas no obsidian/Pasted image 20231112215214.png",
+                "file": "07.Ferramentas Interessantes/07.Segurança Web.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "📷 Todas imagens upadas no obsidian/Pasted image 20231112215214.png",
+                "file": "07.Ferramentas Interessantes/07.Segurança Web.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "📷 Todas imagens upadas no obsidian/Pasted image 20231112215214.png"
+                "file": "07.Ferramentas Interessantes/07.Segurança Web.md"
               }
             }
           }
@@ -147,52 +149,54 @@
   },
   "active": "116739c8e8ce3490",
   "lastOpenFiles": [
-    "07.Ferramentas Interessantes/01.Parquert format.md",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231112215238.png",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231112215226.png",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231112215214.png",
-    "07.Ferramentas Interessantes/00. Gerenciador de Processos.md",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231109223625.png",
-    "07.Ferramentas Interessantes/Untitled",
-    "07.Ferramentas Interessantes",
-    "01. Matematica ➗/Matematica elementar vol 1/Capitulo 2/01.Conjunto — Elemento — Pertinência.md",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231111010422.png",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231111010353.png",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231111010346.png",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231111010137.png",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231111010126.png",
-    "📷 Todas imagens upadas no obsidian/Pasted image 20231111010112.png",
-    "02.Flutter 💻/GetX/routes/Rotas nomeadas/envio de parametros.md",
-    "02.Flutter 💻/GetX/routes/Rotas nomeadas/quanto a rota nao existe.md",
-    "02.Flutter 💻/GetX/routes/Rotas nomeadas/rota simples nomeada.md",
-    "02.Flutter 💻/GetX/routes/Rotas simples/Aguardando retorno de parametro.md",
-    "02.Flutter 💻/GetX/routes/Rotas simples",
-    "02.Flutter 💻/GetX/routes/Rotas nomeadas",
-    "02.Flutter 💻/GetX/routes/Rotas simples/Enviando parametros.md",
-    "02.Flutter 💻/GetX/routes/Rotas simples/offAll.md",
-    "02.Flutter 💻/GetX/routes/Rotas simples/off.md",
-    "02.Flutter 💻/GetX/routes/Rotas simples/to.md",
-    "02.Flutter 💻/GetX/routes/Rotas simples/back.md",
-    "02.Flutter 💻/GetX/main/Main.md",
-    "02.Flutter 💻/GetX/main",
-    "05.Inglês/Mairo Vergara/01.Jack Hannaford.md",
-    "02.Flutter 💻/GetX/routes",
-    "02.Flutter 💻/GetX",
-    "07.Trabalho/Untitled.canvas",
-    "07.Trabalho",
-    "05.Inglês/Mairo Vergara/00. Onde parei.md",
-    "06.Design-Patterns/Designs/Site para estudo.md",
-    "05.Inglês/Mairo Vergara",
-    "03.Csharp 👨‍💻/material de estudo (em sequencia)/01. Documentação.md",
-    "06.Design-Patterns/Designs",
-    "06.Inglês/Mairo veiga/Untitled.md",
-    "03.Csharp 👨‍💻/material de estudo (em sequencia)/02. Minimal api.md",
-    "02.Flutter 💻/Clean Code/Canal no youtube.md",
-    "01. Matematica ➗/Matematica elementar vol 1/Capitulo 2/11.Complementar de B em A ..md",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231128220237.png",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231126171558.png",
+    "07.Ferramentas Interessantes/07.Segurança Web.md",
+    "07.Ferramentas Interessantes/06.databases/00. SQL VS NOSQL.md",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231128212910.png",
+    "08.Capegmini/02. O que estou fazendo.md",
+    "07.Ferramentas Interessantes/06.databases",
+    "08.Capegmini/00. O que eu fiz.md",
+    "08.Capegmini/01. O que falta.md",
+    "05.Inglês/ingles365/03 - Dia 03 Aula - F010.md",
+    "08.Capegmini",
+    "05.Inglês/ingles365/02 - Dia 02 Aula - F009.md",
+    "07.Ferramentas Interessantes/05.Responsividade web/00.Breakpoints.md",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231127170700.png",
+    "07.Ferramentas Interessantes/04.sites com varias funções/00. varias funcões.md",
+    "07.Ferramentas Interessantes/05.Responsividade web",
+    "05.Inglês/ingles365/01 - Dia 01 Aula - F008.md",
+    "01. Matematica ➗/Matematica elementar vol 1/Simbolos.canvas",
+    "2023-11-22.md",
+    "01. Matematica ➗/Ordem base matematica.md",
+    "01. Matematica ➗/Ordem de livros para estudar.md",
+    "01. Matematica ➗/01.Ordem de estudo.md",
+    "01. Matematica ➗/matematica em ordem/03.Geometria",
+    "01. Matematica ➗/matematica em ordem/Untitled.md",
+    "01. Matematica ➗/matematica em ordem/01.Álgebra",
+    "01. Matematica ➗/matematica em ordem/00.Aritimética/01.Operações Básicas (+,-,×,÷).md",
+    "01. Matematica ➗/matematica em ordem/00.Aritimética/07.Potenciação e Radiciação.md",
+    "01. Matematica ➗/matematica em ordem/00.Aritimética",
+    "01. Matematica ➗/matematica em ordem/00.Aritimética/06.Porcentagem.md",
+    "01. Matematica ➗/matematica em ordem/00.Aritimética/05.MMC e MDC 6- Frações e Decimais (+,-,×,÷).md",
+    "01. Matematica ➗/matematica em ordem/00.Aritimética/04.Divisores e Números de Divisores.md",
+    "01. Matematica ➗/matematica em ordem/00.Aritimética/03.Critérios de Divisibilidade.md",
+    "01. Matematica ➗/matematica em ordem/00.Aritimética/02.Números Primos e Fatoração.md",
+    "01. Matematica ➗/matematica em ordem/00. ordem",
+    "01. Matematica ➗/matematica em ordem",
+    "05.Inglês/ingles365/00 - onde parei.md",
     "01. Matematica ➗/Matematica elementar vol 1/Capitulo 2/10.Diferença de conjuntos.md",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231118010032.png",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231121230442.png",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231121230417.png",
     "01. Matematica ➗/Matematica elementar vol 1/Capitulo 2/09.Propriedades.md",
-    "01. Matematica ➗/Matematica elementar vol 1/Capitulo 2/08.Interseção de conjuntos.md",
-    "01. Matematica ➗/Matematica elementar vol 1/Capitulo 2/07.Reunião de conjuntos.md",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231121225903.png",
+    "02.Flutter 💻/academia do flutter",
+    "05.Inglês/ingles365",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231119212847.png",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231119212819.png",
+    "📷 Todas imagens upadas no obsidian/Pasted image 20231119212735.png",
+    "07.Trabalho/Untitled.canvas",
     "01. Matematica ➗/Faculdade 📚/Funções e analise combinatoria.canvas",
     "01. Matematica ➗/Faculdade 📚/Indução e provas matematicas.canvas",
     "01. Matematica ➗/Faculdade 📚/Relação.canvas",
